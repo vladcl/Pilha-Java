@@ -8,7 +8,7 @@ Este projeto tem a funcionalidade de criar uma pilha e realizar o seu método de
 
 ## Try yourself
 
-Se quiser testar você mesmo, basta clonar o repositório e acrescentar no App.java mais letras para a pilha ou utilizar o remover para tirar alguma alguma letra.
+Se quiser testar você mesmo, basta clonar o repositório e acrescentar no App.java mais letras para a pilha ou utilizar o remover para tirar alguma letra dela.
 
 
 ## Thanks for your time! 
