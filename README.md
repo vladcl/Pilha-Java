@@ -1,18 +1,14 @@
-## Getting Started
+## About this project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá está é uma aplicação criada por Vladson Carlos para um exercício de Pilha em JAVA.
 
-## Folder Structure
+## Functionalities
 
-The workspace contains two folders by default, where:
+Este projeto tem a funcionalidade de criar uma pilha e realizar o seu método de estruturação de dados. Ou seja, ela irá adicionar/retirar sempre no começo da pilha.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Try yourself
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Se quiser testar você mesmo, basta clonar o repositório e acrescentar no App.java mais letras para a pilha ou utilizar o remover para tirar alguma alguma letra.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Thanks for your time! 
